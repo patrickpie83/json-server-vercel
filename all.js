@@ -3,7 +3,7 @@ const save = document.querySelector('.save');
 const list = document.querySelector('.list');
 
 
-const _url = "http://localhost:3000"; // 設定伺服器網址的變數
+const _url = "https://rendertest-g27e.onrender.com/"; // 設定伺服器網址的變數
 
 
 let data = []; //宣告一個資料陣列

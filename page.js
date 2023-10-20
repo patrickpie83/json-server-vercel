@@ -7,7 +7,7 @@
 const id = location.href.split("=")[1]; //把當前網址切割，取[1]的值
 // const id = 0; //把當前網址切割，取[1]的值
 
-const _url = "http://localhost:3000"; // 伺服器位址的變數
+const _url = "https://rendertest-g27e.onrender.com/"; // 伺服器位址的變數
 //(js不是scss 沒有import檔案 所以程式碼沒有共用，此page.js檔仍然要再宣告一次)
 
 
